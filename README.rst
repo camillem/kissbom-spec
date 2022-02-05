@@ -32,7 +32,7 @@ These attributes are sufficient to:
 - download packages, and
 - query bug trackers and vulnerability databases for package issues.
 
-purl and SPDX license expressions have their own spec.
+`purl <https://github.com/package-url/purl-spec>`_ and `SPDX license expressions <https://spdx.dev/specifications/>`_ have their own spec.
 
 The extensions for kissbom files are ".kissbom.json", ".kissbom.yml",
 ".kissbom.csv", etc.
